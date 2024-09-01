@@ -1,4 +1,4 @@
-HoroscApp 📱🔮
+HoroscApp 📱🔮                                                                               
 <p align="center"> <img src="https://your-image-url.com/horoscapp-banner.png" alt="HoroscApp Banner" width="80%" /> </p>
 HoroscApp es una aplicación móvil para Android desarrollada en Kotlin que te permite conocer tu horóscopo diario de manera fácil y rápida. Con una interfaz intuitiva y atractiva, ofrece predicciones personalizadas para cada signo del zodiaco, ayudándote a empezar tu día con la mejor energía y orientación.
 
@@ -25,7 +25,7 @@ Clona el repositorio:
 
 bash
 Copy code
-git clone https://github.com/tu-usuario/horoscapp.git
+git clone https://github.com/NoeSelfin/horoscapp.git
 Abre el proyecto en Android Studio:
 
 Selecciona "Open an existing project" y navega hasta la carpeta donde clonaste el repositorio.
@@ -55,4 +55,4 @@ Este proyecto ha sido desarrollado siguiendo el tutorial y las buenas prácticas
 Licencia 📄
 Este proyecto está bajo la licencia MIT - consulta el archivo LICENSE para más detalles.
 
-<p align="center"> Hecho con ❤️ por [Tu Noemi Selfin](https://github.com/NoeSelfin) </p>
+<p align="center"> Hecho con ❤️ por [Noemi Selfin](https://github.com/NoeSelfin) </p>
